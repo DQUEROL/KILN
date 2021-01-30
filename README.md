@@ -1,2 +1,2 @@
 # KILN
-Manage a Kiln and a Boiler with Marlin as firmware
+Manage a 20 feet wood drying Kiln and a Boiler with Marlin as firmware
